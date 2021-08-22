@@ -43,3 +43,12 @@ body {
   padding: 0 1rem;
   min-height: 15rem;
 }
+
+.subscribe{
+display: block;
+height: 2rem;
+font-size: 1.4rem;
+	justify-self: center;
+background-color: gray;
+text-align: center;
+}
